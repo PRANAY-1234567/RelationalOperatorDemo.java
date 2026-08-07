@@ -71,7 +71,6 @@ a>d :false
 ## 🎯 Use Case
 
 This program helps beginners understand:
-
 * How comparisons work in Java
 * How boolean values are generated from conditions
 
