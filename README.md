@@ -1,4 +1,4 @@
-# ☕ Java Relational Operators Example
+#  Java Relational Operators Example
 
 ## 📌 Description
 
