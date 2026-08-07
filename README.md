@@ -17,7 +17,6 @@ This Java program demonstrates the use of **relational operators** to compare in
 ## 🛠️ How It Works
 
 1. Four integer variables are declared:
-
    * `a = 10`
    * `b = 5`
    * `c = 15`
