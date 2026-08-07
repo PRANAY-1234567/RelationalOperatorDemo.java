@@ -23,7 +23,6 @@ This Java program demonstrates the use of **relational operators** to compare in
    * `c = 15`
    * `d = 10`
 2. The program compares:
-
    * `a > b`
    * `a > c`
    * `a > d`
