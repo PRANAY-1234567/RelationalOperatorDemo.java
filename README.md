@@ -4,7 +4,7 @@
 
 This Java program demonstrates the use of **relational operators** to compare integer values. It checks whether one number is greater than another and prints the result as `true` or `false`.
 
----
+-----
 
 ## 🚀 Features
 
